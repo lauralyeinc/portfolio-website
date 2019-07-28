@@ -92,6 +92,7 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		font-size: 62.5%;
 	}
 
 	*, *:before, *:after {
@@ -2236,7 +2237,7 @@ input, select, textarea {
 				background-color: #1ebdd1;
 			}
 
-/* Form */
+/* Form 
 
 	form {
 		margin: 0 0 2rem 0;
@@ -3639,7 +3640,7 @@ input, select, textarea {
 			object-position: right;
 		}
 
-/* Banner (style2) */
+/* Banner (style2) 
 
 	.banner.style2 {
 		padding: 5.25rem 5.25rem 3.25rem 5.25rem ;
@@ -3807,7 +3808,7 @@ input, select, textarea {
 			object-position: right;
 		}
 
-/* Banner (style3) */
+/* Banner (style3) 
 
 	.banner.style3 {
 		padding: 7rem 7rem 5rem 7rem ;
@@ -7341,7 +7342,7 @@ input, select, textarea {
 		background-color: #000000;
 	}
 
-/* Items (transitions) */
+/* Items (transitions) 
 
 	.items.onload-fade-in > * > .inner {
 		-moz-transition: opacity 0.75s ease-in-out;
@@ -7611,7 +7612,7 @@ input, select, textarea {
 		opacity: 0;
 	}
 
-/* Items (style1) */
+/* Items (style1) 
 
 	.items.style1 {
 		display: -moz-flex;
@@ -7838,7 +7839,7 @@ input, select, textarea {
 
 		}
 
-/* Items (style2) */
+/* Items (style2) 
 
 	.items.style2 {
 		display: -moz-flex;
