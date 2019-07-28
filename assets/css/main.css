@@ -4000,7 +4000,7 @@ input, select, textarea {
 			object-position: right;
 		}
 
-/* Banner (style4) */
+/* Banner (style4) 
 
 	.banner.style4 {
 		padding: 7rem 7rem 5rem 7rem ;
@@ -4253,7 +4253,7 @@ input, select, textarea {
 			object-position: right;
 		}
 
-/* Banner (style5) */
+/* Banner (style5) 
 
 	.banner.style5 {
 		padding: 7rem 7rem 5rem 7rem ;
@@ -8602,3 +8602,9 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+	footer{
+		margin: 0 auto;
+		display: flex; 
+		justify-content: center;
+		padding: 2rem;
+	}
